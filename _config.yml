@@ -10,7 +10,7 @@ title: Charles Quirin
 description: > # this means to ignore newlines until "baseurl:"
   Charles Quirin - Technologist and Software Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://crq.nyc" # the base hostname & protocol for your site
+url: "http://charles.quirin.us" # the base hostname & protocol for your site
 twitter_username: charles_quirin
 github_username:  crq
 instagram_username: charles_quirin
